@@ -1,6 +1,6 @@
 # coding: utf-8
 import sys
-sys.path.append('..')
+sys.path.append('../ch01')
 import numpy
 import time
 import matplotlib.pyplot as plt

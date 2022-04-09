@@ -1,7 +1,7 @@
 # coding: utf-8
 import sys
 import os
-sys.path.append('..')
+sys.path.append('../ch01')
 try:
     import urllib.request
 except ImportError:
